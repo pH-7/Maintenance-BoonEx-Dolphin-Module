@@ -15,7 +15,7 @@ $aConfig = array(
     'title' => 'Maintenance',
     'version' => '1.0.0',
     'vendor' => 'pH7 (Pierre-Henry Soria)',
-    'update_url' => 'https://github.com/pH-7/Maintenance-BoonEx-Dolphin-Module/blob/master/version.xml', // URL to get info about available module updates
+    'update_url' => 'https://raw.github.com/pH-7/Maintenance-BoonEx-Dolphin-Module/master/version.xml', // URL to get info about available module updates
     'compatible_with' => array(
         '7.x.x'
     ),
