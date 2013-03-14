@@ -8,14 +8,15 @@
 
 ## How to install
 
-* Upload all directories from the zip archive into your Dolphin site.
+1. Upload all directories from the zip archive into your Dolphin site.
 
-* Go to => Administration Panel => Tools ==> Modules and install the **Maintenance** module
+2. Go to => Administration Panel => Tools ==> Modules and install the **Maintenance** module
 
-* Edit `~/inc/design.inc.php` and add the below code to the beginning of the file
+3. Edit `~/inc/design.inc.php` and add the below code to the beginning of the file
+
         require_once(BX_DIRECTORY_PATH_ROOT . 'modules/pH7/maintenance/init.inc.php'); // pH7 Maintenance Module
 
-* Finish ;-)
+4. Finish ;-)
 
 
 ## Multi-language
@@ -36,7 +37,9 @@
 ## Requirements
   
 **Server** PHP 5.2.0 or higher.
+
 **Database** MySQL 4.1.2 or newer.
+
 **Dolphin Software** 7.x.x (tested with 7.0.x and 7.1.x).
   
   
