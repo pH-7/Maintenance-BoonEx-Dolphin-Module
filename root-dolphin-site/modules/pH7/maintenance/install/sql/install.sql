@@ -17,7 +17,7 @@ CREATE TABLE [db_prefix]_msg (
 );
 
 -- sample data
-INSERT INTO [db_prefix]_msg VALUES (1, 'We\'ll be back soon!', '<p style="font-weight:bold; font-size:14px; text-align:center">Woops! Website is currently down for maintenance!</p>
+INSERT INTO [db_prefix]_msg VALUES (1, 'We\'ll be back soon!', '<p style="font-weight:bold; font-size:14px; text-align:center">Whoops! Website is currently down for maintenance!</p>
 <p style="text-align:center"><em>Please check back later</em> <img src="./modules/pH7/maintenance/templates/base/images/demo/smile.gif" alt="Smile" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
